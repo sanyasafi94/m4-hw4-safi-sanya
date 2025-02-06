@@ -24,7 +24,13 @@ nav.main{
     text-align: center;
 }
 
-nav.site{
+nav.site {
+    text-align: center;
+    
+}
+
+nav.site a {
+    padding: 5pt;
     
 }
 
