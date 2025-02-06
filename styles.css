@@ -8,13 +8,18 @@ h1{
 body{
     margin: auto;
     max-width: 900px;
-    
+    font-family: gill sans;
+    font-weight: lighter;
+}
+a{
+    color: navy ;
 }
 
 nav{
     margin-bottom: 15px;
     margin-left: 10px;
     margin-top: 5pt;
+    font-weight: 400;
 }
 
 nav.main{
@@ -22,16 +27,19 @@ nav.main{
     background-color: aliceblue;
     background-size: 100%;
     text-align: center;
+    
 }
 
 nav.site {
     text-align: center;
-    
 }
 
 nav.site a {
     padding: 5pt;
-    
+}
+
+h2, h3, h4{
+    color: navy;
 }
 
 img {
@@ -39,3 +47,17 @@ img {
     margin: auto;
     width: 50%;
   }
+
+  h4, ol{
+    margin-left: 25pt;
+  }
+
+  li{
+    line-height: 1.5;
+}
+
+footer{
+    text-align: center;
+    font-weight: 400;
+    color: navy;
+}
