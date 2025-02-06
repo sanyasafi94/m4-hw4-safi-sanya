@@ -1,0 +1,35 @@
+h1{
+    color: rgb(239, 92, 117);
+    font-size: 30pt;
+    margin: 20px auto 15px auto;
+    text-align: center;
+}
+
+body{
+    margin: auto;
+    max-width: 900px;
+    
+}
+
+nav{
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-top: 5pt;
+}
+
+nav.main{
+    word-spacing: 5pt;
+    background-color: aliceblue;
+    background-size: 100%;
+    text-align: center;
+}
+
+nav.site{
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
