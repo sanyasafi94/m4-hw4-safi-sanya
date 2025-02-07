@@ -48,6 +48,12 @@ img {
     width: 50%;
   }
 
+  section.songs > h4{
+    color: rgb(61, 61, 152);
+    font-weight: 600;
+    text-decoration: underline;
+  }
+
   h4, ol{
     margin-left: 25pt;
   }
